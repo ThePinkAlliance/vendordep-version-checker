@@ -1,0 +1,12 @@
+{
+	"name": "vendordep-version",
+	"packageManager": "yarn@3.2.3",
+	"main": "build/index.js",
+	"dependencies": {
+		"@actions/core": "^1.10.0",
+		"@actions/io": "^1.1.2",
+		"@types/node": "^18.8.5",
+		"gradle-to-ts": "^2.0.1",
+		"typescript": "^4.8.4"
+	}
+}
